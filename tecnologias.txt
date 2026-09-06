@@ -1,0 +1,1 @@
+Python es un lenguaje de programación de alto nivel y propósito general que se caracteriza por su sintaxis clara y legible, lo que facilita su aprendizaje y uso. Fue creado por Guido van Rossum en 1991 con el objetivo de ser un lenguaje fácil de entender y eficiente.
