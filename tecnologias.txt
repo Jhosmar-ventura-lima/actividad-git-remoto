@@ -1,3 +1,4 @@
 Python es un lenguaje de programación de alto nivel y propósito general que se caracteriza por su sintaxis clara y legible, lo que facilita su aprendizaje y uso. Fue creado por Guido van Rossum en 1991 con el objetivo de ser un lenguaje fácil de entender y eficiente.
 Java es un lenguaje de programación orientado a objetos y una plataforma de software creada por Sun Microsystems en 1995
 JavaScript es un lenguaje de programación interpretado que permite dotar de interactividad y dinamismo a las páginas web. Forma, junto con HTML (estructura) y CSS (estilos), el núcleo de las tecnologías web estándar.
+C++ es un lenguaje de programación de propósito general que extiende las capacidades del lenguaje C al incorporar características avanzadas como la programación orientada a objetos (POO).
