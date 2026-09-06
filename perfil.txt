@@ -2,3 +2,4 @@ nombre: jhosmar ventura
 carrera: Ingeniería de sistemas
 semestre: II/2026
 materia: Actualización Tecnológica
+edad:20
