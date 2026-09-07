@@ -9,3 +9,5 @@ Correo electrónico: 300jhosmarventuralima72@gmail.com
 Teléfono: 72468769
 Ciudad: Oruro
 Descripción académica: Estudiante de Ingeniería con interés en automatización y programación.
+Actualización final del proyecto completada.
+
