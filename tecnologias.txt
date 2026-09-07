@@ -2,3 +2,11 @@ Python es un lenguaje de programación de alto nivel y propósito general que se
 Java es un lenguaje de programación orientado a objetos y una plataforma de software creada por Sun Microsystems en 1995
 JavaScript es un lenguaje de programación interpretado que permite dotar de interactividad y dinamismo a las páginas web. Forma, junto con HTML (estructura) y CSS (estilos), el núcleo de las tecnologías web estándar.
 C++ es un lenguaje de programación de propósito general que extiende las capacidades del lenguaje C al incorporar características avanzadas como la programación orientada a objetos (POO).
+Tecnologías que conozco:
+- AutoLISP
+- Python
+- Git
+
+Tecnologías que deseo aprender:
+- JavaScript
+- Inteligencia Artificial
