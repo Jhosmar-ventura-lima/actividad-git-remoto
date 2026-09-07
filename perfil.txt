@@ -5,3 +5,7 @@ materia: Actualización Tecnológica
 edad:20
 ciudad: Oruro
 semestre:cuarto
+Correo electrónico: 300jhosmarventuralima72@gmail.com
+Teléfono: 72468769
+Ciudad: Oruro
+Descripción académica: Estudiante de Ingeniería con interés en automatización y programación.
