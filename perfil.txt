@@ -4,3 +4,4 @@ semestre: II/2026
 materia: Actualización Tecnológica
 edad:20
 ciudad: Oruro
+semestre:cuarto
